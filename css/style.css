@@ -36,4 +36,24 @@ body {
 textarea {
     box-shadow: 10px 10px 24px 0px rgba(0, 0, 0, 0.75);
     outline: none;
+    border: none;
+    width: 275px;
+    height: 275px;
+    padding: 40px 25px 25px 25px;
+}
+
+svg {
+    color: grey;
+}
+
+#check-icon {
+    position: absolute;
+    right: 17%;
+    top: 4%;
+}
+
+#crosse-icon {
+    position: absolute;
+    right: 5%;
+    top: 4%;
 }
